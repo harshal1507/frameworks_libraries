@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/akka_actor_system/akka-big-prime/akka-big-prime.iml" filepath="$PROJECT_DIR$/akka_actor_system/akka-big-prime/akka-big-prime.iml" />
-      <module fileurl="file://$PROJECT_DIR$/akka_actor_system/akka-quickstart-java/akka-quickstart/app.iml" filepath="$PROJECT_DIR$/akka_actor_system/akka-quickstart-java/akka-quickstart/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/frameworks_libraries.iml" filepath="$PROJECT_DIR$/.idea/frameworks_libraries.iml" />
-      <module fileurl="file://$PROJECT_DIR$/kafka/kafka-consumer-example-main/kafka-consumer-example.iml" filepath="$PROJECT_DIR$/kafka/kafka-consumer-example-main/kafka-consumer-example.iml" />
-      <module fileurl="file://$PROJECT_DIR$/kafka/kafka-integration-test-main/kafka-consumer-example/kafka-consumer-example (1).iml" filepath="$PROJECT_DIR$/kafka/kafka-integration-test-main/kafka-consumer-example/kafka-consumer-example (1).iml" />
-      <module fileurl="file://$PROJECT_DIR$/kafka/kafka-error-handling-main/kafka-demo.iml" filepath="$PROJECT_DIR$/kafka/kafka-error-handling-main/kafka-demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/kafka/kafka-integration-test-main/kafka-producer-example/kafka-producer-example.iml" filepath="$PROJECT_DIR$/kafka/kafka-integration-test-main/kafka-producer-example/kafka-producer-example.iml" />
-      <module fileurl="file://$PROJECT_DIR$/kafka/kafka-producer-example-main/kafka-producer-example (1).iml" filepath="$PROJECT_DIR$/kafka/kafka-producer-example-main/kafka-producer-example (1).iml" />
-      <module fileurl="file://$PROJECT_DIR$/quartz_schedular/quartz_schedular_1/quartz_schedular_1.iml" filepath="$PROJECT_DIR$/quartz_schedular/quartz_schedular_1/quartz_schedular_1.iml" />
     </modules>
   </component>
 </project>
