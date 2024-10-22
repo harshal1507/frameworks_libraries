@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/akka_actor_system/akka-quickstart-java/akka-quickstart/app.iml" filepath="$PROJECT_DIR$/akka_actor_system/akka-quickstart-java/akka-quickstart/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/frameworks_libraries.iml" filepath="$PROJECT_DIR$/.idea/frameworks_libraries.iml" />
     </modules>
   </component>

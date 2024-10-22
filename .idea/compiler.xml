@@ -8,7 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="kafka-producer-example (1)" />
-        <module name="app" />
+        <module name="akka-big-prime" />
         <module name="kafka-producer-example (2)" />
         <module name="quartz_schedular_1" />
         <module name="kafka-demo" />
@@ -17,7 +17,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="akka-big-prime" target="17" />
+      <module name="app" target="17" />
       <module name="kafka-consumer-example" target="17" />
       <module name="kafka-producer-example" target="17" />
     </bytecodeTargetLevel>
