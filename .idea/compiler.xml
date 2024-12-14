@@ -3,18 +3,38 @@
   <component name="CompilerConfiguration">
     <annotationProcessing>
       <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="kafka-demo" />
+        <module name="akka-big-prime" />
+        <module name="kafka-producer-example (2)" />
+        <module name="quartz_schedular_1" />
+      </profile>
+      <profile name="Annotation profile for kafka-consumer-example" enabled="true">
+        <sourceOutputDir name="../kafka-integration-test-main/kafka-consumer-example/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../kafka-integration-test-main/kafka-consumer-example/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="kafka-consumer-example (1)" />
+      </profile>
+      <profile name="Annotation profile for kafka-consumer-example (2)" enabled="true">
+        <sourceOutputDir name="../../kafka-consumer-example-main/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../kafka-consumer-example-main/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="kafka-consumer-example (2)" />
+      </profile>
+      <profile name="Annotation profile for kafka-producer-example" enabled="true">
+        <sourceOutputDir name="../../kafka-producer-example-main/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../kafka-producer-example-main/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="kafka-producer-example (1)" />
+      </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="22">
-      <module name="akka-big-prime" target="17" />
       <module name="app" target="17" />
       <module name="kafka-consumer-example" target="17" />
-      <module name="kafka-consumer-example (1)" target="17" />
-      <module name="kafka-consumer-example (2)" target="17" />
-      <module name="kafka-demo" target="17" />
       <module name="kafka-producer-example" target="17" />
-      <module name="kafka-producer-example (1)" target="17" />
-      <module name="kafka-producer-example (2)" target="17" />
-      <module name="quartz_schedular_1" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

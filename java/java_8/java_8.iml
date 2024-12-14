@@ -3,9 +3,7 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/akka_actor_system/single-multi-threaded-big-prime/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/java/java_8/src" isTestSource="false" />
-      <excludeFolder url="file://$MODULE_DIR$/akka_actor_system/single-multi-threaded-big-prime/.idea" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
